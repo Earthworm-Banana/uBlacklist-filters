@@ -1,0 +1,6 @@
+*://*.nordvpn.com/*
+*://*.nordvpn.org/*
+*://*.protonvpn.com/*
+*://*.proton.me/*
+*://*/r/*VPN/*
+*://*/r/VPNTorrents/*
